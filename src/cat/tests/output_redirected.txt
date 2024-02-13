@@ -1,0 +1,12 @@
+argc is 2
+arg 1 is test.txt
+b 0, T 0
+optind is 1
+b is 0
+e is 0
+E is 0
+n is 0
+s is 0
+t is 0
+T is 0
+v is 0

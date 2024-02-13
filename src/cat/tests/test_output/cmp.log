@@ -1,0 +1,186 @@
+------------------------------------ 2024-02-06 12:11:27 ------------------------------------
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 13, line 1
+tests/ascii_check.txt has differences with -bt flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 220, line 2
+tests/extended_ascii has differences with -sevtsn flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 219, line 2
+tests/extended_ascii.txt has differences with -tsb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1461, line 140
+tests/newlined_full_ascii.txt has differences with -nenv flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 38, line 3
+tests/text.txt has differences with -nnvbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 84, line 4
+------------------------------------ 2024-02-06 12:14:42 ------------------------------------
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 219, line 2
+tests/extended_ascii has differences with -ebsbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 220, line 2
+tests/extended_ascii.txt has differences with -nvbet flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 84, line 4
+------------------------------------ 2024-02-06 12:22:32 ------------------------------------
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 13, line 1
+tests/ascii_check.txt has differences with -nst flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1027, line 7
+tests/auto_test_14.txt has differences with -vbsses flags
+------------------------------------ 2024-02-06 12:24:07 ------------------------------------
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 13, line 1
+tests/ascii_check.txt has differences with -nenb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 377, line 3
+tests/ascii_weird.txt has differences with -be flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 84, line 4
+tests/numbered_lines.txt has differences with -vbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 38, line 3
+tests/text.txt has differences with -ntvebs flags
+------------------------------------ 2024-02-06 12:30:22 ------------------------------------
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 377, line 3
+tests/ascii_weird.txt has differences with -vsbeee flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 233, line 5
+tests/auto_test_13.txt has differences with -eb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 325, line 5
+tests/auto_test_19.txt has differences with -ebttev flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1684, line 15
+tests/auto_test_22.txt has differences with -bevs flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1130, line 14
+tests/auto_test_23.txt has differences with -ebbsse flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 57, line 2
+tests/auto_test_25.txt has differences with -esbtn flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 890, line 11
+tests/auto_test_40.txt has differences with -bbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 249, line 3
+tests/auto_test_47.txt has differences with -tbestv flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 820, line 8
+tests/auto_test_5.txt has differences with -ebs flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 2009, line 11
+tests/auto_test_53.txt has differences with -nbeb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 918, line 7
+tests/auto_test_58.txt has differences with -sneb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 125, line 6
+tests/auto_test_61.txt has differences with -vbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 707, line 3
+tests/auto_test_78.txt has differences with -evvbs flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 551, line 7
+tests/auto_test_84.txt has differences with -nebt flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 728, line 10
+tests/auto_test_89.txt has differences with -bete flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 496, line 5
+tests/auto_test_93.txt has differences with -nbsve flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 198, line 5
+tests/auto_test_98.txt has differences with -ebvst flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1472, line 16
+tests/auto_test_99.txt has differences with -vebtst flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1461, line 140
+tests/newlined_full_ascii.txt has differences with -vnee flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 84, line 4
+tests/numbered_lines.txt has differences with -ebbvve flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 5677, line 140
+tests/output_generated_ascii.txt has differences with -evevsb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 30, line 2
+tests/paragraph.txt has differences with -ttbe flags
+------------------------------------ 2024-02-06 12:32:32 ------------------------------------
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 13, line 1
+tests/ascii_check.txt has differences with -vvnsen flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1462, line 140
+tests/newlined_full_ascii.txt has differences with -tevntv flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 5677, line 140
+tests/output_generated_ascii.txt has differences with -nvvnse flags
+------------------------------------ 2024-02-06 12:32:47 ------------------------------------
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 13, line 1
+tests/ascii_check.txt has differences with -svbs flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 375, line 3
+tests/ascii_weird.txt has differences with -bst flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 187, line 3
+tests/auto_test_10.txt has differences with -bnebn flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 326, line 4
+tests/auto_test_18.txt has differences with -ssebs flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 2774, line 19
+tests/auto_test_19.txt has differences with -bnntve flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 574, line 7
+tests/auto_test_21.txt has differences with -evbt flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 112, line 3
+tests/auto_test_23.txt has differences with -ebte flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 359, line 5
+tests/auto_test_24.txt has differences with -esbs flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1030, line 11
+tests/auto_test_25.txt has differences with -enbss flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1, line 1
+tests/auto_test_31.txt has differences with -ebn flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 996, line 7
+tests/auto_test_35.txt has differences with -ebnvv flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1681, line 17
+tests/auto_test_38.txt has differences with -beb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 653, line 5
+tests/auto_test_4.txt has differences with -eteneb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 445, line 5
+tests/auto_test_40.txt has differences with -ebtnb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1137, line 7
+tests/auto_test_43.txt has differences with -stsesb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 507, line 6
+tests/auto_test_56.txt has differences with -etvnbt flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1283, line 16
+tests/auto_test_63.txt has differences with -tnbse flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 26, line 3
+tests/auto_test_64.txt has differences with -nntebt flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 696, line 7
+tests/auto_test_72.txt has differences with -tvbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1222, line 11
+tests/auto_test_73.txt has differences with -tbee flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 975, line 13
+tests/auto_test_74.txt has differences with -evsb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 590, line 6
+tests/auto_test_76.txt has differences with -tevbv flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1113, line 12
+tests/auto_test_82.txt has differences with -bnne flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1237, line 10
+tests/auto_test_84.txt has differences with -etnsbb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1227, line 14
+tests/auto_test_87.txt has differences with -ttentb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 745, line 8
+tests/auto_test_88.txt has differences with -eenbn flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 559, line 8
+tests/auto_test_94.txt has differences with -nvbene flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 741, line 10
+tests/auto_test_97.txt has differences with -bseb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 84, line 4
+tests/numbered_lines.txt has differences with -eeb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 30, line 2
+tests/paragraph.txt has differences with -stvbes flags
+------------------------------------ 2024-02-06 12:32:51 ------------------------------------
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 139, line 4
+tests/auto_test_1.txt has differences with -eebne flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 857, line 10
+tests/auto_test_20.txt has differences with -vbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 946, line 9
+tests/auto_test_29.txt has differences with -nbesn flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 777, line 7
+tests/auto_test_31.txt has differences with -eeebse flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 924, line 11
+tests/auto_test_32.txt has differences with -evveb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 967, line 10
+tests/auto_test_33.txt has differences with -esvbn flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 691, line 9
+tests/auto_test_37.txt has differences with -btsnne flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 794, line 13
+tests/auto_test_47.txt has differences with -neb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1135, line 8
+tests/auto_test_49.txt has differences with -bbsets flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1023, line 17
+tests/auto_test_57.txt has differences with -bevv flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 431, line 11
+tests/auto_test_62.txt has differences with -vbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1091, line 13
+tests/auto_test_64.txt has differences with -tbbeee flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1703, line 9
+tests/auto_test_75.txt has differences with -ebvvts flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 800, line 7
+tests/auto_test_81.txt has differences with -vesb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 960, line 6
+tests/auto_test_87.txt has differences with -ebsv flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 570, line 8
+tests/auto_test_92.txt has differences with -seebse flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 379, line 7
+tests/auto_test_93.txt has differences with -bbe flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 1549, line 16
+tests/auto_test_95.txt has differences with -enb flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 814, line 7
+tests/auto_test_99.txt has differences with -tsebee flags
+tests/test_output/cat_output.txt tests/test_output/s21_cat_output.txt differ: char 87, line 4
+tests/numbered_lines.txt has differences with -tbe flags
