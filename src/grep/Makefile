@@ -1,7 +1,7 @@
 CFLAGS = -Wall -Wextra -Werror -std=c11
 DEBUG_FLAGS = -g -fsanitize=address
 GREP = s21_grep
-TEST_DIR = ../../tests/grep_tests
+TEST_DIR = ../../tests
 
 all: $(GREP)
 

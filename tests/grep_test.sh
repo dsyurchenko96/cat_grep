@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir="grep_tests"
+dir="../../tests/grep_tests"
 output="$dir/test_output"
 grep_out="$output/grep_output.txt"
 s21_out="$output/s21_grep_output.txt"
