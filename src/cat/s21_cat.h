@@ -7,7 +7,7 @@
 #define NON_PRINT_SHIFT 64
 
 typedef struct Flags {
-  bool b, e, n, s, t, v;
+    bool b, e, n, s, t, v;
 } Flags;
 
 void parse_flags(Flags *flags, int *exit_status, int opted);

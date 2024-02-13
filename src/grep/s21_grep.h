@@ -12,24 +12,24 @@
 // #define NO_COLOUR "\033[0m"
 
 typedef struct Flags {
-  bool e, v, c, l, n, h, f, o, print_filename;
+    bool e, v, c, l, n, h, f, o, print_filename;
 } Flags;
 
 typedef struct Patterns {
-  int capacity;
-  int num_patterns;
-  bool are_compiled;
-  int num_compiled;
-  char **string_array;
-  regex_t *regex_array;
+    int capacity;
+    int num_patterns;
+    bool are_compiled;
+    int num_compiled;
+    char **string_array;
+    regex_t *regex_array;
 } Patterns;
 
 typedef struct Line {
-  char *string;
-  size_t alloc_size;
-  ssize_t len;
-  int num;
-  bool skip;
+    char *string;
+    size_t alloc_size;
+    ssize_t len;
+    int num;
+    bool skip;
 } Line;
 
 void initialize_patterns(Patterns *patterns);
