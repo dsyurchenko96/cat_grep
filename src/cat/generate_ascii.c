@@ -17,7 +17,7 @@ void generate_random(FILE *file);
 int main() {
     int exit_status = EXIT_SUCCESS;
     srand(time(NULL));
-    const char directory[] = "tests/";
+    const char directory[] = "../../tests/cat_tests/";
     struct dirent **nameList;
     int n = scandir(directory, &nameList, NULL, alphasort);
     const char test_name[] = "auto_test_";

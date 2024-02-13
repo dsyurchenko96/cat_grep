@@ -1,6 +1,7 @@
 CFLAGS = -Wall -Wextra -Werror -std=c11
 DEBUG_FLAGS = -g -fsanitize=address
 GREP = s21_grep
+TEST_DIR = ../../tests/grep_tests
 
 all: $(GREP)
 
@@ -11,10 +12,10 @@ debug: $(GREP).c $(GREP).h
 	gcc $(CFLAGS) $(DEBUG_FLAGS) $(GREP).c -o $(GREP)
 
 test: $(GREP)
-	./test.sh
+	$(TEST_DIR)/grep_test.sh
 
 test_with_leaks: $(GREP)
-	./test.sh leaks
+	$(TEST_DIR)/grep_test.sh leaks
 
 clean:
 	rm -rf *.o $(GREP) *.out

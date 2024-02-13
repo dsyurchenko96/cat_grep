@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir="tests"
+dir="../../tests/cat_tests"
 cat_out="$dir/test_output/cat_output.txt"
 s21_out="$dir/test_output/s21_cat_output.txt"
 log="$dir/test_output/cmp.log"

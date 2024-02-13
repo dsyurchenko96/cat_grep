@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir="tests"
+dir="grep_tests"
 output="$dir/test_output"
 grep_out="$output/grep_output.txt"
 s21_out="$output/s21_grep_output.txt"
@@ -131,7 +131,7 @@ if (( failure_rate == 0)); then
 	echo -e "${green_colour}No mistakes were found${no_colour}"
 fi
 
-# debug_file="warm_and_piss.txt"
+# debug_file="war_and_peace.txt"
 # debug_pat="Prince Andrew"
 # grep -io "$debug_pat" "$dir/$debug_file" > $grep_out
 # ./s21_grep -io "$debug_pat" "$dir/$debug_file" > $s21_out
