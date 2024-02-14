@@ -62,7 +62,6 @@ void parse_flags(Flags *flags, int *exit_status, int opted) {
             *exit_status = EXIT_FAILURE;
             break;
         default:
-            printf("that's defaault?\n");
             break;
     }
 }

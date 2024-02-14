@@ -8,9 +8,6 @@
 #define NO_FILE_FOUND 2
 #define INITIAL_CAPACITY 2
 
-// #define RED "\x1B[31m"
-// #define NO_COLOUR "\033[0m"
-
 typedef struct Flags {
     bool e, v, c, l, n, h, f, o, print_filename;
 } Flags;
